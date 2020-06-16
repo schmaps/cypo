@@ -1,0 +1,14 @@
+Package: com.deadtweak
+Name: Snappy
+Version: 1.7.1
+Architecture: iphone-os-arm
+Description: This allows you to enhance your Snap abilities.
+Maintainer: Schmaps
+Author: Schmaps
+Section: Tweaks
+Depends: 
+Filename: debs/deadtweak.deb
+Size: 5079056
+MD5sum: d50cbb0b499850a18ead542476d457bd
+SHA1: 50928fb3a44fa63da97bf4b51e18eb396511177b
+SHA256: 761d9317413e05f966f4c15688b4f3abfce96c21f1c9fd3df8f1de97798e1d50
